@@ -11,7 +11,7 @@
  
 </div>
 <div align="center" class="Status">
-   <a href="https://github.com/alvaroarmani/github-readme-stats">
+   <a href="https://github.com/alvaroarmani">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=alvaroarmani&show_icons=true&layout=compact&include_all_commits=true&count_private=true">
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvaroarmani&layout=compact">
     </a>
