@@ -41,7 +41,7 @@
          },
          databases: ["MySql"]
      },
-     currentFocus: "Studying to be a full stack web developerr",
+     currentFocus: "Studying to be a full stack web developer",
      funFact: " MARTELO! 🔨"
  };
  ```
